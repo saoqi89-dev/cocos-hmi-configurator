@@ -1,0 +1,14 @@
+# Cocos Creator 3D 项目
+*~
+*.log
+.DS_Store
+Thumbs.db
+*.local
+.library/
+temp/
+build/
+dist/
+*.js.map
+.vscode/
+.idea/
+*.tsbuildinfo
