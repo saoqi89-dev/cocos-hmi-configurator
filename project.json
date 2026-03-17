@@ -1,0 +1,18 @@
+{
+  "engine": "cocos-creator-3d",
+  "packages": {},
+  "name": "cocos-hmi-configurator",
+  "id": "cocos-hmi-configurator",
+  "options": {
+    "scripting": {
+      "language": "javascript",
+      "ecmaVersion": "2020"
+    },
+    "physics": {
+      "enable": true,
+      "gravity": [0, -9.8, 0]
+    }
+  },
+  "uuid": "cocos-hmi-configurator-uuid",
+  "version": "1.0.0"
+}
